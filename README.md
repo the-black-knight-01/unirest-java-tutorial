@@ -4,7 +4,8 @@ Unirest is a lightweight HTTP client library from Mashape. Along with Java, itâ€
 UniRest Java Tutorial
 
 1. Introduction to Unirest:
-           i. Why Unirest needed?
+
+           i. Why Unirest needed?         
            ii. What is UniRest?
            iii. Advantages of UniRest
            iv. Features of Unirest
@@ -12,6 +13,7 @@ UniRest Java Tutorial
 2. Installation and Setup
 
 3.  Features Details and how to use:
+
         Make GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS requests
         Both synchronous and asynchronous (non-blocking) requests
         Supports form parameters, file uploads and custom body entities
