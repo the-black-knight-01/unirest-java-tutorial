@@ -14,17 +14,17 @@ UniRest Java Tutorial (https://interviewbubble.com/unirest-java-tutorial/)
 
 3.  Features Details and how to use:
 
-        Make GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS requests
-        Both synchronous and asynchronous (non-blocking) requests
-        Supports form parameters, file uploads and custom body entities
-        Easily add route parameters without ugly string concatenations
-        Supports gzip
-        Supports Basic Authentication natively
-        Customizable timeout, concurrency levels, and proxy settings
-        Customizable default headers for every request (DRY)
-        Customizable HttpClient and HttpAsyncClient implementation
-        Automatic JSON parsing into a native object for JSON responses
-        Customizable binding, with mapping from response body to Java Object
+        1. Make GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS requests
+        2. Both synchronous and asynchronous (non-blocking) requests
+        3. Supports form parameters, file uploads and custom body entities
+        4. Easily add route parameters without ugly string concatenations
+        5. Supports gzip
+        6. Supports Basic Authentication natively
+        7. Customizable timeout, concurrency levels, and proxy settings
+        8. Customizable default headers for every request (DRY)
+        9. Customizable HttpClient and HttpAsyncClient implementation
+        10. Automatic JSON parsing into a native object for JSON responses
+        11. Customizable binding, with mapping from response body to Java Object
 
 4. Demo Project: Java REST Client Using Unirest Java API
 
